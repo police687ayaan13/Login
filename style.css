@@ -45,6 +45,7 @@ body{
 }
 .Forgot{
     margin-left: 113px;
+    cursor: pointer;
 }
 .logindown{
     text-align: center;
